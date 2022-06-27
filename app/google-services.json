@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448607785967",
+    "firebase_url": "https://cater-foods-default-rtdb.firebaseio.com",
+    "project_id": "cater-foods",
+    "storage_bucket": "cater-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448607785967:android:cd30c1b682f0e9dbf0dc1a",
+        "android_client_info": {
+          "package_name": "com.example.caterfoodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448607785967-llsd8s89486g3jc5gi9smm3e839n2sed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caterfoodproject",
+            "certificate_hash": "87210661ec653f9bf3ba48fde15768a5180432a7"
+          }
+        },
+        {
+          "client_id": "448607785967-ks6r23blvgh8rf1h038t07d2ire68cgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5f2LL57TZA1sW-YKTBBbrMKu6Loh0MTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448607785967-ks6r23blvgh8rf1h038t07d2ire68cgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
